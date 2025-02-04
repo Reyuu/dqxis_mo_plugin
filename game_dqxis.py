@@ -9,7 +9,7 @@ class DragonQuestXIS(BasicGame):
     Version = "1.0.0"
 
     GameName = "DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition"
-    GameShortName = "dqxis"
+    GameShortName = "dragonquestxisdefinitiveedition"
     GameNexusName = "dragonquestxisdefinitiveedition"
     GameNexusId = 3496
     GameEpicId = "94a50905f377470c84c8e4b7c38f9cdd"
